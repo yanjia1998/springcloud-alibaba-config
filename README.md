@@ -1,0 +1,2 @@
+# springcloud-alibaba-config
+springcloudalibaba学习视频时的config组件仓库配置
