@@ -2,4 +2,4 @@ spring:
   application:
     name: config
 config:
-  info: dev-info  jia
+  info: dev-info  jia  update
